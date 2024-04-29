@@ -1,5 +1,5 @@
 # 💫 About Me:
-###Hi ,I'm Charles!<br><br>Software Engineer sharing about my journey and learning in tech<br><br>Studying [Software Engineering] at Moringa School<br><br>Currently learning full-stack web development
+### Hi ,I'm Charles!<br><br>Software Engineer sharing about my journey and learning in tech<br><br>Studying [Software Engineering] at Moringa School<br><br>Currently learning full-stack web development
 
 
 ## 🌐 Socials:
