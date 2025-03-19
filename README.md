@@ -3,22 +3,21 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects. Here's a bit about me:
 
 ## 🔭 Current Projects
-- **AI & Machine Learning:** Working on innovative AI solutions to solve real-world problems.
+- **App and Web Development:** Working on building apps and web apps solve real-world problems.
 - **Open Source Contributions:** Actively contributing to various open source projects.
 
 ## 🌱 Learning
-- Deepening my knowledge in **Neural Networks** and **Deep Learning**.
-- Exploring **Blockchain** technology and its applications.
+- Deepening my knowledge in **Typescript** and **Docker**.
+- Exploring **CyberSecurity** 
 
 ## 💬 Ask Me About
 - Python, JavaScript, and other programming languages.
-- Data Science and Machine Learning.
-- Open Source contributions and how to get started.
+- Web  and App Development.
 
 ## 📫 How to Reach Me
-- **Email:** charles4500@example.com
-- **LinkedIn:** [Charles4500](https://www.linkedin.com/in/charles4500)
-- **Twitter:** [@Charles4500](https://twitter.com/Charles4500)
+- **Email:** hello@biegon.dev
+- **LinkedIn:** [Charles Biegon](https://www.linkedin.com/in/charles-biegon-5667092b8/)
+- **X:** [@CharlesBiegon3](https://x.com/CharlesBiegon3)
 
 ## ⚡ Fun Fact
 I love hiking and photography. When I'm not coding, you can find me exploring nature trails or capturing beautiful landscapes.
