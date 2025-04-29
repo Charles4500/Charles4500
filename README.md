@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects. Here's a bit about me:
 
 ## 🔭 Current Projects
-- **App and Web Development:** Working on building apps and web apps solve real-world problems.
+- **App and Web Development:** Building mobile and web applications to solve real-world problems.
 - **Open Source Contributions:** Actively contributing to various open source projects.
 
 ## 🌱 Learning
