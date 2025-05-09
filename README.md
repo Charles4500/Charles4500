@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🌱 Learning
 - Deepening my knowledge in **Typescript** and **Docker**.
-- Exploring **CyberSecurity** 
+- Exploring **AI/ML** 
 
 ## 💬 Ask Me About
 - Python, JavaScript, and other programming languages.
