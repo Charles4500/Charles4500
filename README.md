@@ -22,7 +22,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## ⚡ Fun Fact
 I love hiking and photography. When I'm not coding, you can find me exploring nature trails or capturing beautiful landscapes.
 
-## 📊 GitHub Stats
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles4500&show_icons=true&theme=radical)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any project or just have a chat. 😊
